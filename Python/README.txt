@@ -1,0 +1,1 @@
+Everything you need to run the FFANN is in the NeuralNetScript.py. The code is wwritten in Python 3.3.5. There are also some dependencies, such as numpy and matplotlib. You can find all of these in the import statements.

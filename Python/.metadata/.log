@@ -1,0 +1,64 @@
+!SESSION 2014-06-17 23:00:40.511 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.7.0_40
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -keyring /Users/joseph/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/joseph/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2014-06-17 23:00:56.438
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY com.google.eclipse.mechanic 2 0 2014-06-17 23:01:01.664
+!MESSAGE Directory '/Users/joseph/.eclipse/mechanic' does not exist.
+
+!ENTRY com.google.eclipse.mechanic 2 0 2014-06-17 23:01:01.664
+!MESSAGE Directory '/Applications/liclipse/configuration/com.google.eclipse.mechanic/mechanic' does not exist.
+!SESSION 2014-06-17 23:02:37.929 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.7.0_40
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -keyring /Users/joseph/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/joseph/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2014-06-17 23:02:42.304
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY com.google.eclipse.mechanic 2 0 2014-06-17 23:02:44.466
+!MESSAGE Directory '/Users/joseph/.eclipse/mechanic' does not exist.
+
+!ENTRY com.google.eclipse.mechanic 2 0 2014-06-17 23:02:44.466
+!MESSAGE Directory '/Applications/liclipse/configuration/com.google.eclipse.mechanic/mechanic' does not exist.
+!SESSION 2014-06-17 23:04:24.864 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.7.0_40
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -keyring /Users/joseph/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -data /Users/joseph/Desktop/FFANN -keyring /Users/joseph/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2014-06-17 23:04:27.886
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY com.google.eclipse.mechanic 2 0 2014-06-17 23:04:30.021
+!MESSAGE Directory '/Users/joseph/.eclipse/mechanic' does not exist.
+
+!ENTRY com.google.eclipse.mechanic 2 0 2014-06-17 23:04:30.022
+!MESSAGE Directory '/Applications/liclipse/configuration/com.google.eclipse.mechanic/mechanic' does not exist.
+!SESSION 2014-06-17 23:05:01.595 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.7.0_40
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -keyring /Users/joseph/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -data /Users/joseph/Desktop/FFANN -keyring /Users/joseph/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2014-06-17 23:05:04.671
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY com.google.eclipse.mechanic 2 0 2014-06-17 23:05:07.097
+!MESSAGE Directory '/Users/joseph/.eclipse/mechanic' does not exist.
+
+!ENTRY com.google.eclipse.mechanic 2 0 2014-06-17 23:05:07.097
+!MESSAGE Directory '/Applications/liclipse/configuration/com.google.eclipse.mechanic/mechanic' does not exist.
